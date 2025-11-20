@@ -1,5 +1,5 @@
 
-# **Esse projeto foi feito para eu conhecer o funcionamento do python em desenvolvimento web, então criei um exercício simples(conforme enunciado a baixo) do qual pude explorar os conceitos de desenvolvimento web utilizando python. Sobre os frameworks listados abaixos, ficaram de minha esocolha por serem populares.Fique a vontade para sugerir algo que possa ser melhorado, ou mesmo se desafie a fazer ele, ainda mais se python é desconhecido para você 😄**
+##### **Esse projeto foi feito para eu conhecer o funcionamento do python em desenvolvimento web, então criei um exercício simples(conforme enunciado a baixo) do qual pude explorar os conceitos de desenvolvimento web utilizando python. Sobre os frameworks listados abaixos, ficaram de minha esocolha por serem populares.Fique a vontade para sugerir algo que possa ser melhorado, ou mesmo se desafie a fazer ele, ainda mais se python é desconhecido para você 😄**
 
 # 🧠 Exercício: Sistema Bancário Simples com API REST usando Python + FastAPI
 
