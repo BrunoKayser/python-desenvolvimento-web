@@ -10,6 +10,7 @@
 - FastAPI: Construção de APIs
 - Uvicorn: Servidor WEB
 - SQLAlchemy: Banco de dados (conexão ao Postgres)
+- Docker: criação de banco de dados
 - pytest-mock: Mock de Testes unitátio 
 - pytest: Testes unitáris
 - mock-alchemy: Teste unitário de repositório
