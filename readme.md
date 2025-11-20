@@ -1,7 +1,11 @@
 
-# **Esse projeto foi feito para eu conhecer o funcionamento do python em desenvolvimento web, então criei um exercício simples(conforme enunciado a baixo) do qual pude explorar os conceitos de desenvolvimento web utilizando python. Sobre os frameworks listados abaixos, ficaram de minha esocolha por serem populares.Fique a vontade para sugerir algo que possa ser melhorado, ou mesmo se desafie a fazer ele, ainda mais se python é desconhecido para você 😄**
+ **Este projeto foi criado com o objetivo de explorar como o Python funciona no desenvolvimento web. Para isso, desenvolvi um exercício simples (conforme o enunciado abaixo) que me permitiu praticar e compreender melhor diversos conceitos dessa área.**
 
-# 🧠 Exercício: Sistema Bancário Simples com API REST usando Python + FastAPI
+ **Os frameworks utilizados foram escolhidos por serem populares e amplamente adotados pela comunidade.**
+
+ **Sinta-se à vontade para sugerir melhorias ou até mesmo se desafiar a implementar o projeto você mesmo, especialmente se Python ainda não é familiar para você. 😄**
+
+# 🧠 Exercício: Sistema Bancário Simples com API REST usando Python + FastAPI**
 
 # 🎯 Objetivo:  Criar uma API RESTful para criar conta e consultar.
 
@@ -10,8 +14,9 @@
 - FastAPI: Construção de APIs
 - Uvicorn: Servidor WEB
 - SQLAlchemy: Banco de dados (conexão ao Postgres)
+- Docker: criação de banco de dados
 - pytest-mock: Mock de Testes unitátio 
-- pytest: Testes unitáris
+- pytest: Testes unitários
 - mock-alchemy: Teste unitário de repositório
 - pydantic: Manipulação de requests e responses
 
