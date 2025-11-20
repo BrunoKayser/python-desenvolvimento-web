@@ -53,7 +53,9 @@ A conta deve ter
 - Criar documentação via Swagger (FastAPI já gera por padrão em /docs)
 
 ## 🐳 Informações da aplicação
-Necessário subir o arquivo docker para geração do banco de dados docker/docker-compose.yaml, utilizando o comando docker-compose up
+- Necessário subir o arquivo docker para geração do banco de dados docker/docker-compose.yaml, utilizando o comando `docker-compose up`
+- Instalar as bibliotecas: `pip install -r .\requirements.txt`
+- Inicializar a aplicação: `uvicorn controller.controller:app --reload`
 
 ### 🗄️ Script para criação das tabelas
 ```

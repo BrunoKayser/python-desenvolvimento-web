@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pytest
+pytest-mock
+mock-alchemy
+pydantic
