@@ -1,0 +1,25 @@
+TODO:
+- Finalizar as validações de atributo na classe ContaRequest - OK
+- Mapper para o request - OK
+- Mapper para o response - OK
+- Fazer a controller chamar a service - OK
+- Adicionar tratamento de exceção Global - OK
+- Adicionar número da conta e agênia - OK
+- Adicionar integração com banco de dados - OK
+- Adicionar os demais métodos na controller - OK
+    - Adicioanar a validação de input necessária em cada método - OK
+    - Mapper para o request - OK
+- Criar mappers necessários para response - OK
+- Adicionar validação de não deixar ter duas contas iguais - OK
+- Validar se a controller esta capturando a exceção da service - OK
+- Adicionar data/hora no response de exception - OK
+- Adicionar descrição nos métodos da API(sumário, título, descrição...) - OK
+- Ajustar formatação de data do response - OK
+- Campos nulos não devem ser retornados - OK
+- Teste unitário
+    - Teste unitário do método consultar_quantidade_contas_por_cpf_cnpj - NÃO VOU FAZER
+    - Teste unitário do método inserir_conta na service -> OK
+    - Teste unitário da controller -> Não vou fazer
+    - teste unitário no validator -> OK
+- Validar por que o import na classe conta não da certo para o Usuario, somente se tem domain.usuario, e não somente com domain
+- Melhorar o tratamento de exceção, tirar da controller -> OK
